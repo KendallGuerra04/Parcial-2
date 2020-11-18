@@ -1,0 +1,13 @@
+C:\Users\u97_1\Documents\TAlleres_VIsual_Basic\Parcial#2\Parcial2\Parcial2\bin\Debug\Parcial2.exe.config
+C:\Users\u97_1\Documents\TAlleres_VIsual_Basic\Parcial#2\Parcial2\Parcial2\bin\Debug\Parcial2.exe
+C:\Users\u97_1\Documents\TAlleres_VIsual_Basic\Parcial#2\Parcial2\Parcial2\bin\Debug\Parcial2.pdb
+C:\Users\u97_1\Documents\TAlleres_VIsual_Basic\Parcial#2\Parcial2\Parcial2\bin\Debug\Parcial2.xml
+C:\Users\u97_1\Documents\TAlleres_VIsual_Basic\Parcial#2\Parcial2\Parcial2\obj\Debug\Parcial2.vbprojAssemblyReference.cache
+C:\Users\u97_1\Documents\TAlleres_VIsual_Basic\Parcial#2\Parcial2\Parcial2\obj\Debug\Parcial2.Form1.resources
+C:\Users\u97_1\Documents\TAlleres_VIsual_Basic\Parcial#2\Parcial2\Parcial2\obj\Debug\Parcial2.Resources.resources
+C:\Users\u97_1\Documents\TAlleres_VIsual_Basic\Parcial#2\Parcial2\Parcial2\obj\Debug\Parcial2.vbproj.GenerateResource.cache
+C:\Users\u97_1\Documents\TAlleres_VIsual_Basic\Parcial#2\Parcial2\Parcial2\obj\Debug\Parcial2.vbproj.CoreCompileInputs.cache
+C:\Users\u97_1\Documents\TAlleres_VIsual_Basic\Parcial#2\Parcial2\Parcial2\obj\Debug\Parcial2.exe
+C:\Users\u97_1\Documents\TAlleres_VIsual_Basic\Parcial#2\Parcial2\Parcial2\obj\Debug\Parcial2.xml
+C:\Users\u97_1\Documents\TAlleres_VIsual_Basic\Parcial#2\Parcial2\Parcial2\obj\Debug\Parcial2.pdb
+C:\Users\u97_1\Documents\TAlleres_VIsual_Basic\Parcial#2\Parcial2\Parcial2\obj\Debug\Parcial2.Problema1.resources
