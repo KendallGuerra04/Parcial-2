@@ -11,3 +11,4 @@ C:\Users\u97_1\Documents\TAlleres_VIsual_Basic\Parcial#2\Parcial2\Parcial2\obj\D
 C:\Users\u97_1\Documents\TAlleres_VIsual_Basic\Parcial#2\Parcial2\Parcial2\obj\Debug\Parcial2.xml
 C:\Users\u97_1\Documents\TAlleres_VIsual_Basic\Parcial#2\Parcial2\Parcial2\obj\Debug\Parcial2.pdb
 C:\Users\u97_1\Documents\TAlleres_VIsual_Basic\Parcial#2\Parcial2\Parcial2\obj\Debug\Parcial2.Problema1.resources
+C:\Users\u97_1\Documents\TAlleres_VIsual_Basic\Parcial#2\Parcial2\Parcial2\obj\Debug\Parcial2.Problema2.resources
